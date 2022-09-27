@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <p align='center'>
  
   <a href="https://www.evernote.com/shard/s514/sh/6707ce40-a144-d16c-2ce9-a178e2f5d89f/bb6ba8ba6df5936f6250cbdbbc6b583c">
-    <img height="120em" src="https://github.com/otaviozordan/21Proj06/blob/main/img/Evernote-Logo.png" />  
+    <img height="120em" src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/68747470733a2f2f7777772e6132686f73742e636f6d2e62722f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031352f30382f4f6e654e6f74652e706e67.png" />  
   </a>&nbsp;&nbsp;
 </p>
 
@@ -28,9 +28,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </td>
     <td align="center">
       <a href="https://instagram.com/otaviozordan">
-        <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Ot%C3%A1vio.jpeg" width="100px;" alt="Foto do Otávio Zordan no GitHub" width="100px;" alt="Foto do Otávio Zordan no GitHub"/><br>
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-26%20at%2023.14.11.jpeg" width="100px;" alt="pinguim" width="100px;" alt="pinguim"/><br>
         <sub>
-          <b><p>Otávio Zordan</p><p>(Coder)</p></b>
-        </sub>
-      </a>
-    </td>
+          <b><p>João Pedro Maciel</p></b>
+          <p>(coder)</p><p>(hardware)</p>
