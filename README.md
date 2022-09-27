@@ -28,8 +28,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="" width="100px;" alt=""/><br>
+      <a href="https://www.instagram.com/kikocribeiro/">
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/foto.jpg" width="100px;" alt=""/><br>
         <sub>
           <b><p>Carlos</p><p>(Orientador)</p></b>
         </sub>
@@ -45,7 +45,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.instagram.com/aldinho.g/">
-        <img src=https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-27%20at%2008.40.52.jpeg" width="100px;" alt="Aldinho"/><br>
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/aldo%201.jpeg" width="100px;" alt="Aldinho"/><br>
         <sub>
          <b><p>Aldo Gabriel</p><p>(Hardware)</p></b>
         </sub>
@@ -73,12 +73,21 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.instagram.com/samelkk/">
-        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-27%20at%2008.40.52.jpeg width="100px;" alt="Samuel vono"/><br>
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp-Image-2022-09-27-at-08.24.11.png" width="100px;" alt="Samuel vono"/><br>
         <sub>
          <b><p>Samuel Vono</p><p>(Assistente geral)</p></b>
         </sub>
       </a>
     </td>
   </tr>
+  </td>
+    <td align="center">
+      <a href="https://www.instagram.com/luisotavio_gs">
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/luis.jpg" width="100px;" alt="luis"/><br>
+        <sub>
+         <b><p>Luís Otávio<p>(Hardware)</p></b>
+        </sub>
+      </a>
+    </td>
 </table>
 
