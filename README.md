@@ -25,10 +25,60 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-</td>
+<table>
+  <tr>
     <td align="center">
-      <a href="https://www.instagram.com/pinguinzx/">
-        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-26%20at%2023.14.11.jpeg" width="100px;" alt="pinguim" width="100px;" alt="pinguim"/><br>
+      <a href="#">
+        <img src="" width="100px;" alt=""/><br>
         <sub>
-          <b><p>João Pedro Maciel</p></b>
-          <p>(coder)</p><p>(hardware)</p>
+          <b><p>Carlos</p><p>(Orientador)</p></b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/pinguinzx">
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-26%20at%2023.14.11.jpeg" width="100px;" alt="Foto do pinguim no GitHub" width="100px;" alt="Foto do Pinguim no GitHub"/><br>
+        <sub>
+          <b><p>Pinguim</p><p>(Software)</p><p>(Hardware)</p><p>(Escritor)</p></b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/aldinho.g/">
+        <img src=https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-27%20at%2008.40.52.jpeg" width="100px;" alt="Aldinho"/><br>
+        <sub>
+         <b><p>Aldo Gabriel</p><p>(Hardware)</p></b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/arthur_lgc">
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-27%20at%2008.42.55.jpeg" width="100px;" alt="Foto de Arthur"/><br>
+        <sub>
+          <b><p>Arthur Brentegani</p><p>(Organizador)</p></b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/_melissete">
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-27%20at%2008.49.30.jpeg" width="100px;" alt="Foto da melissa" width="100px;" alt="Foto do Melissa"/><br>
+        <sub>
+          <b><p>Melissa Costa</p><p>(Escritora)</p></b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/samelkk/">
+        <img src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/WhatsApp%20Image%202022-09-27%20at%2008.40.52.jpeg width="100px;" alt="Samuel vono"/><br>
+        <sub>
+         <b><p>Samuel Vono</p><p>(Assistente geral)</p></b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
