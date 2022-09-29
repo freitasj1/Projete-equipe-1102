@@ -1,5 +1,6 @@
 <img src="https://img.shields.io/github/contributors/Jpinguim/Projete-equipe-1102?label=contribuidores&style=for-the-badge"/>
 <img src="https://img.shields.io/github/last-commit/Jpinguim/Projete-equipe-1102?label=Ultima%20atualiza%C3%A7%C3%A3o&style=for-the-badge"/>
+<img src ="https://img.shields.io/github/watchers/Jpinguim/Projete-equipe-1102?style=for-the-badge"/>
 
 # Projete equipe 1102
 Wonder game: jogo de perguntas voltado para deficientes visuais.
